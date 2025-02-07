@@ -1,0 +1,19 @@
+﻿EPIC GAMES - Questions:
+
+
+1.        Create a Highlight table to show various Genres and their respective sales across all regions in descending order.
+2.        Create a horizontal bar chart to visualize Top 5 Platforms and their respective global sales.
+3.        Create a Lollipop chart to visualize Top 5 Games as per their Global Sales.
+4.        Create a Funnel chart to visualize Top 10 Games as per the number of users.
+5.        Create an Area chart to visualize trend of sales over the period of time.
+6.        Create a combo chart of Line and Bar to visualize Critic Score and User Score for all Genres. Keep both the scores unified.
+7.        Create a Tree Map to visualize Top 10 publishers with their respective number of games published. 
+8.        Create a Packed Bubble Chart to visualize Top 10 developers with their respective number of games developed. 
+9.        Create a side by side bar to visualize sales of all the regions for Age Rating: Teen (T), Everyone (E) and Mature (M).
+10.        Create a pie chart showing number of games for each Age Rating in percentage.
+11.        Create a KPI card for Total Sales, Europe Sales, North America Sales, Japan Sales and Other Sales.
+12.        Create a KPI card for Average Critic Score
+13.        Create a KPI card for Average User Score
+14.        Showcase any other insight apart from those mentioned above.
+15.        Use these insights to create a dashboard.
+16.        Create a story for all the visuals.
